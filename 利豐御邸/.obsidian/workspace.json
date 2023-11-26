@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "741c2c3295433295",
+        "id": "df664d1010802f06",
         "type": "tabs",
         "children": [
           {
-            "id": "c2c8bbfe86da1784",
+            "id": "1b657b56bab7d0c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "回饋意見.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -111,10 +107,10 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "c2c8bbfe86da1784",
+  "active": "d4eae41ff2707ef7",
   "lastOpenFiles": [
-    "汙水納管.md",
     "回饋意見.md",
+    "汙水納管.md",
     "未命名.canvas",
     "TOTO衛浴-建信.md"
   ]
