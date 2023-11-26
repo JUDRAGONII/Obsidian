@@ -28,7 +28,7 @@
   "showFileMenu": true,
   "lineAuthor": {
     "show": true,
-    "followMovement": "all-commits",
+    "followMovement": "same-commit",
     "authorDisplay": "initials",
     "showCommitHash": false,
     "dateTimeFormatOptions": "date",
